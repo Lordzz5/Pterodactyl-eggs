@@ -4,11 +4,14 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2022-09-08T21:25:16+03:00",
+    "exported_at": "2022-09-09T22:11:49+03:00",
     "name": "Tekkit 2",
     "author": "looordi@orkenstein.com",
     "description": "Tekkit 2 server egg\r\n\r\nhttps:\/\/www.technicpack.net\/modpack\/tekkit-2.1935271",
-    "features": null,
+    "features": [
+        "eula",
+        "java_version"
+    ],
     "docker_images": {
         "ghcr.io\/pterodactyl\/yolks:java_8": "ghcr.io\/pterodactyl\/yolks:java_8",
         "ghcr.io\/pterodactyl\/yolks:java_11": "ghcr.io\/pterodactyl\/yolks:java_11",
